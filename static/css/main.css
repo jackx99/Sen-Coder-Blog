@@ -1,0 +1,45 @@
+.logo__tagline {
+    color: #74dac6;
+}
+
+.divider {
+    background-color: #74dac6;
+}
+
+a:hover {
+    color: #74dac6;
+}
+
+.btn {
+    background-color: #1a3e59;
+}
+
+.btn:hover {
+    background-color: #74dac6;
+}
+
+.widget__title {
+    border-bottom: 3px solid #74dac6;
+}
+
+.meta a:hover {
+    color: #74dac6;
+}
+
+.tags__badge {
+    background-color: #74dac6;
+}
+
+.post__thumbnail img {
+    width: 50%;
+}
+
+.content a,
+.warning a {
+	color: #74dac6;
+}
+
+.content a:hover,
+.warning a:hover {
+	color: #74dac6;
+}
