@@ -20,3 +20,5 @@ fields:
 - type: list
   name: categories
   label: categories
+pages:
+- content/post/How to build a GraphQL with MongoDB and Ktor.md
