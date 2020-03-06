@@ -2,7 +2,6 @@
 categories = ["backendapi"]
 comments = true
 date = 2019-10-26T22:00:00Z
-draft = true
 tags = ["graphql", "kotlin", "ktor"]
 thumbnail = "img/How to build a GraphQL with MongoDB and Ktor.webp"
 title = "How to build a GraphQL with MongoDB and Ktor"
