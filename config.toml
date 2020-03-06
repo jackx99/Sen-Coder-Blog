@@ -1,4 +1,4 @@
-baseURL = "https://blog.sencoder.com/"
+baseURL = "https://shencoder.netlify.com/"
 languageCode = "en-us"
 title = "Sen Coder"
 theme = "Mainroad"
