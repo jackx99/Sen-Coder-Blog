@@ -2,7 +2,6 @@
 categories = ["desktop"]
 comments = true
 date = 2019-11-22T10:00:00Z
-draft = true
 tags = ["desktop", "register", "login", "mysql", "tornadofx"]
 thumbnail = "img/Create a Login and Register TornadoFX with MySQL.webp"
 title = "Create a Login and Register TornadoFX with MySQL"
