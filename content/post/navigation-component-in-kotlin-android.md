@@ -2,7 +2,6 @@
 categories = ["android"]
 comments = true
 date = 2019-11-12T10:00:00Z
-draft = true
 tags = ["android", "jetpackandroid", "navigation", "navigationcomponent"]
 thumbnail = "img/Navigation Component in Kotlin Android.webp"
 title = "Navigation Component in Kotlin Android"
