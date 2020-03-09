@@ -1,7 +1,7 @@
 +++
 categories = ["backendapi"]
 comments = true
-date = 2019-11-02T22:00:00Z
+date = 2019-11-01T22:00:00Z
 tags = ["golang", "  beginner", "graphql", "gotutorial"]
 thumbnail = "img/Create a GraphQL with MongoDB Go.webp"
 title = "Create a GraphQL with MongoDB Go"
