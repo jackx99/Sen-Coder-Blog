@@ -2,7 +2,6 @@
 categories = ["android"]
 comments = true
 date = 2019-11-14T10:00:00Z
-draft = true
 tags = ["android", "jetpackandroid", "roomdatabase", "room"]
 thumbnail = "img/How to Insert and Select Statements in Room Database Android.webp"
 title = "How to Insert and Select Statements in Room Database Android"
