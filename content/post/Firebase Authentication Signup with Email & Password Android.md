@@ -1,19 +1,18 @@
 ---
-title: "Firebase Authentication Signup with Email & Password Android"
-date: 2019-10-23T09:09:32+08:00
-thumbnail: "img/Firebase Authentication Signup with Email & Password Android.webp"
-draft: false
+title: Firebase Authentication Signup with Email & Password Android
+date: 2019-10-22T06:00:00+08:00
+thumbnail: img/Firebase Authentication Signup with Email & Password Android.webp
 comments: true
 tags:
-    - "firebase"
-    - "restapi"
-    - "kotlin"
-    - "android"
-    - "androidstudio"
+- firebase
+- restapi
+- kotlin
+- android
+- androidstudio
 categories:
-    - "android"
----
+- android
 
+---
 An app should securely save user data for the right data access on the database. In this tutorial, We will sign up using the email and password through OkHttp.
 
 You can watch the [YouTube video](https://youtu.be/xDiocobaxj4) or Learn more.
