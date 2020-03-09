@@ -24,5 +24,6 @@ pages:
 - content/post/How to build a GraphQL with MongoDB and Ktor.md
 - content/post/apollo-graphql-and-android.md
 - content/post/create-a-graphql-with-mongodb-go.md
+- content/post/how-to-insert-and-select-statements-in-room-database-android.md
 - content/post/mvvm-and-live-data-android.md
 - content/post/navigation-component-in-kotlin-android.md
