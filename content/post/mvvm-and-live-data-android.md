@@ -2,7 +2,6 @@
 categories = ["android"]
 comments = true
 date = 2019-11-05T22:00:00Z
-draft = true
 tags = ["android", "jetpackandroid", "livedata", "mvvm"]
 thumbnail = "img/MVVM and Live Data Android.webp"
 title = "MVVM and Live Data Android"
