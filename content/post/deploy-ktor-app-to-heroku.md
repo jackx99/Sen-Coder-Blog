@@ -2,7 +2,6 @@
 categories = ["backendapi"]
 comments = true
 date = 2019-11-25T10:00:00Z
-draft = true
 tags = ["docker", "heroku", "ktor"]
 thumbnail = "img/Deploy Ktor App to Heroku.webp"
 title = "Deploy Ktor App to Heroku"
