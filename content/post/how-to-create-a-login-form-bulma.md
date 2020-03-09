@@ -2,7 +2,6 @@
 categories = ["web"]
 comments = true
 date = 2019-12-01T10:00:00Z
-draft = true
 tags = ["bulmacss", "flex", "css", "login"]
 thumbnail = "img/How to create a login form Bulma.webp"
 title = "How to create a login form Bulma"
