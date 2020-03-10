@@ -2,7 +2,6 @@
 categories = ["desktop"]
 comments = true
 date = 2019-12-05T10:00:00Z
-draft = true
 tags = ["tornadofx", "sqlite", "mvc", "crud"]
 thumbnail = "TornadoFX CRUD Update data.webp"
 title = "TornadoFX CRUD Update data"
